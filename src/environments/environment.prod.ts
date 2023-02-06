@@ -1,4 +1,4 @@
 export const environment = {
   production: true,
-  apiUrl: 'http://localhost:4200/assets/'
+  apiUrl: 'https://llqirpxv.github.stackblitz.io/assets/'
 };
